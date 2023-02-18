@@ -35,3 +35,9 @@ Specify the start index and the end index, separated by a colon, to return a par
 
 Day 6 Uppercase
 The upper() method returns the string in upper case:
+
+
+Day 7 String Concatenation
+To concatenate, or combine, two strings you can use the + operator.
+
+
