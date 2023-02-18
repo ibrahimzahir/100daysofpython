@@ -41,3 +41,16 @@ Day 7 String Concatenation
 To concatenate, or combine, two strings you can use the + operator.
 
 
+Day 7- String Format
+
+we cannot combine strings and numbers like this:
+
+age = 36
+txt = "My name is John, I am " + age
+print(txt)
+
+But we can combine strings and numbers by using the format() method!
+
+The format() method takes the passed arguments, formats them, and places them in the string where the placeholders {} are:
+
+
