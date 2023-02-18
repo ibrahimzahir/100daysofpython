@@ -15,3 +15,8 @@ Type Error, Type Checking and Type Conversion
 Data Types
 Mathematical Operations
 
+
+Day 3 - Multiple Variables
+Many Values to Multiple Variables
+Python allows you to assign values to multiple variables in one line:
+
