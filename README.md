@@ -27,8 +27,11 @@ Variables that are created outside of a function (as in all of the examples abov
 Global variables can be used by everyone, both inside of functions and outside.
 
 
-Day 4 - Slicing
+Day 5 - Slicing
 You can return a range of characters by using the slice syntax.
 
 Specify the start index and the end index, separated by a colon, to return a part of the string.
 
+
+Day 6 Uppercase
+The upper() method returns the string in upper case:
