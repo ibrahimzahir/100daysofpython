@@ -41,7 +41,7 @@ Day 7 String Concatenation
 To concatenate, or combine, two strings you can use the + operator.
 
 
-Day 7- String Format
+Day 8 - String Format
 
 we cannot combine strings and numbers like this:
 
@@ -54,3 +54,10 @@ But we can combine strings and numbers by using the format() method!
 The format() method takes the passed arguments, formats them, and places them in the string where the placeholders {} are:
 
 
+
+Day 9 - Escape Character
+To insert characters that are illegal in a string, use an escape character.
+
+An escape character is a backslash \ followed by the character you want to insert.
+
+An example of an illegal character is a double quote inside a string that is surrounded by double quotes:
