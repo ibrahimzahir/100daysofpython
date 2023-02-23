@@ -1,7 +1,5 @@
-a = 2000
-b = 3034
+#Operators are used to perform operations on variables and values.
 
-if a >= b:
-    print("a is greater than b")
-else:
-    print("b is greater than a")
+#In the example below, we use the + operator to add together two values:
+
+print(10022 + 123)
