@@ -27,3 +27,9 @@ listApp.remove("easy")
 print(listApp)
 
 
+#Remove Specified Index
+#The pop() method removes the specified index.
+
+listApp = ["easy", "medium", "difficult", "Ext difficult"]
+listApp.pop(1)
+print(listApp)
