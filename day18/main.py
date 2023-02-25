@@ -14,3 +14,29 @@ for x in fruits:
     newlist.append(x)
 
 print(newlist)
+
+pylay = ["Messi", "Ronaldo", "Ronaldinho", "Neymar"]
+pyneW = ["Dhagey", "Kaley", "Ayaa", "Happe"]
+
+for x in pylay: 
+    if "M" in x:
+        pyneW.append(x)
+print(pyneW)
+
+
+pylay = ["Messi", "Ronaldo", "Ronaldinho", "Neymar"]
+pyneW = ["Dhagey", "Kaley", "Ayaa", "Happe"]
+
+for x in pylay:
+    if "R" in x:
+        pyneW.append(x)
+print(pyneW)
+
+
+pylay = ["Messi", "Ronaldo", "Ronaldinho", "Neymar"]
+pyneW = ["Dhagey", "Kaley", "Ayaa", "Happe"]
+
+for x in pylay:
+    if "y" in x:
+        pyneW.append(x)
+print(pyneW)
